@@ -76,7 +76,7 @@ namespace Actividad3Unidad2.Modelos
                             Console.Clear(); // limpiar pantalla
                             Console.WriteLine("Opción invalida, presione cualquier tecla para intentarlo nuevamente"); // 
                             Console.ReadKey(); // esperar por tecla presionada
-                            break; // salir del caso
+                            break; // salir del caso 
                     }
                 }
             }

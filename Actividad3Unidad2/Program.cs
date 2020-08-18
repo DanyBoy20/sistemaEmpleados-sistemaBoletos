@@ -12,7 +12,7 @@ namespace Actividad3Unidad2
             {
                 var empleado = new Empleados();
                 var boleto = new Boletos();
-                Console.Clear(); // me servira para limpiar pantalla
+                Console.Clear(); // me servira para limpiar pantalla 
                 Console.WriteLine("DHP");   // mensaje de titulo             
                 Console.WriteLine("--------Menu-----------"); // mensaje
                 Console.WriteLine("1- Programa Empleados"); // mensaje
