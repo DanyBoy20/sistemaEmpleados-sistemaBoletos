@@ -7,7 +7,7 @@ namespace Actividad3Unidad2.Modelos
     class Empleados
     {
         // propiedades de la clase empleados
-        public List<Empleado> CapturaEmpleados { get; set; } // lista de tipo empleados
+        public List<Empleado> CapturaEmpleados { get; set; } 
 
         public Empleados() // constructor
         {
