@@ -28,7 +28,7 @@ namespace Actividad3Unidad2.Modelos
                 {
                     switch (opcion) // en un switch evaluo la variable para determinar en que rango esta
                     {
-                        case 1: // 
+                        case 1: 
                             Console.Clear(); // limpiar pantalla
                             Console.WriteLine("Ingrese la cantidad de boletos a comprar: "); // mensaje pidiendo datos
                             int.TryParse(Console.ReadLine(), out cantidad); // capturo el valor y lo paso a variable boleana para evaluarla
@@ -39,7 +39,7 @@ namespace Actividad3Unidad2.Modelos
                             Console.WriteLine("Presione cualquier tecla para continuar");
                             Console.ReadKey(); // esperar por tecla presionada
                             break; // salir del caso
-                        case 2: // 
+                        case 2: 
                             Console.Clear(); // limpiar pantalla
                             Console.WriteLine("Ingrese la cantidad de boletos a comprar: "); // mensaje pidiendo datos
                             int.TryParse(Console.ReadLine(), out cantidad); // capturo el valor y lo paso a variable boleana para evaluarla
@@ -50,7 +50,7 @@ namespace Actividad3Unidad2.Modelos
                             Console.WriteLine("Presione cualquier tecla para continuar");
                             Console.ReadKey(); // esperar por tecla presionada
                             break;// salir del caso
-                        case 3: // 
+                        case 3: 
                             Console.Clear(); // limpiar pantalla
                             Console.WriteLine("Ingrese la cantidad de boletos a comprar: "); // mensaje pidiendo datos
                             int.TryParse(Console.ReadLine(), out cantidad); // capturo el valor y lo paso a variable boleana para evaluarla
@@ -61,7 +61,7 @@ namespace Actividad3Unidad2.Modelos
                             Console.WriteLine("Presione cualquier tecla para continuar");
                             Console.ReadKey(); // esperar por tecla presionada
                             break;// salir del caso
-                        case 4: // 
+                        case 4: 
                             Console.Clear(); // limpiar pantalla
                             Console.WriteLine("Ingrese la cantidad de boletos a comprar: "); // mensaje pidiendo datos
                             int.TryParse(Console.ReadLine(), out cantidad); // capturo el valor y lo paso a variable boleana para evaluarla

@@ -46,7 +46,7 @@ namespace Actividad3Unidad2.Modelos
                     Console.ReadKey(); // en espera de que el usuario presione una tecla
                     Console.Clear(); // limpio pantalla
                 }
-                else // si no
+                else 
                 {
                     switch (variable1) // en un switch valido la insercion por teclado del usuario
                     {
